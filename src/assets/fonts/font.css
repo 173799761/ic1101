@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'ColusRegular';
+    src: url('./Colus-Regular.otf');
+}
+@font-face {
+    font-family: 'Didot';
+    src: url('./FreeSerifBold.ttf');
+}
+@font-face {
+    font-family: 'NotoSans';
+    src: url('./NotoSans-Regular.ttf');
+}
+@font-face {
+    font-family: 'AiDeep';
+    src: url('./AiDeep.otf');
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url('./Barlow-Bold.ttf');
+}
+@font-face {
+    font-family: 'Barlow-light';
+    src: url('./Barlow-Regular.ttf');
+}
